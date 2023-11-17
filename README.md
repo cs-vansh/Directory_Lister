@@ -10,7 +10,7 @@ This Python script helps to enumerate files with a specific extension in a given
 The syntax for running the script is:
 
 ```
-python script_name.py directory_path [-ext extension]
+python RecursiveDirectoryLister.py directory_path [-ext extension]
 ```
 
 Replace `extension`  with the required extension type(for .txt put txt, for .ipynb put ipynb). Specifying the `extension` is optional.
